@@ -1,7 +1,7 @@
 package main
 
 import (
-	stableDiffusion "github.com/mudler/go-stable-diffusion"
+	stableDiffusion "github.com/ghostbackdoor/go-stable-diffusion"
 )
 
 func main() {
